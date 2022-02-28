@@ -7,3 +7,7 @@ Java
 <img width="485" alt="skrinsutt" src="https://user-images.githubusercontent.com/91143712/156017954-313639f0-9dce-4a4c-b118-23f0e80d7a64.png">
 CPP
 <img width="341" alt="skrinsutt" src="https://user-images.githubusercontent.com/91143712/156017975-8b861879-5901-45bb-8fe1-fd17b859ea60.png">
+
+
+# Desain Program
+Pada tugas kali ini, kelas "Pc" memiliki relasi composition dengan kelas lain, karena di dunia nyata "Ram", "Processor", "Disk" merupakan bagian dari "Pc"
